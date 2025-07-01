@@ -33,7 +33,7 @@ Welcome to the Gym Center Website! This project is a modern, responsive web appl
 ## 🛠️ Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/developmentwithumer/Gym-Center.git
+    git clone https://github.com/Ronit21102/Gym-Center.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -61,6 +61,6 @@ We welcome contributions to improve my skills and the Gym Center Website. Feel f
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
 
 ## 🌐 Connect with Me
-- **GitHub:** [DevelopmentWithUmer](https://github.com/developmentwithumer/)
+- **GitHub:** [DevelopmentWithRonit](https://github.com/Ronit21102/)
 
 Thank you for checking out the Gym Center Website! We hope it helps you.

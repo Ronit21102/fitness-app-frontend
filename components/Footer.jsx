@@ -52,19 +52,19 @@ const Footer = () => {
           <h3 className="text-lg font-urbanist font-medium">Social Media</h3>
           <div className="flex flex-wrap gap-2 font-medium">
             <Link
-              href="https://github.com/developmentwithumer/"
+              href="https://github.com/Ronit21102/"
               target="_blank"
             >
               <Instagram className="hover:text-primary" />
             </Link>
             <Link
-              href="https://github.com/developmentwithumer/"
+              href="https://github.com/Ronit21102/"
               target="_blank"
             >
               <Twitter className="hover:text-primary" />
             </Link>
             <Link
-              href="https://github.com/developmentwithumer/"
+              href="https://github.com/Ronit21102/"
               target="_blank"
             >
               <Facebook className="hover:text-primary" />
@@ -76,16 +76,16 @@ const Footer = () => {
         <div className="flex justify-between gap-6 items-center flex-wrap text-sm">
           <div className='leading-6'>
             <span className="opacity-50 mr-0.5">
-              &copy; 2024 Gym Center. All rights reserved.
+              &copy; 2025 Gym Center. All rights reserved.
             </span>{" "}
             <span className="font-urbanist">
               <span className="opacity-50">Developed by{" "}</span>
               <Link
                 className="font-bold text-primary"
-                href="https://github.com/developmentwithumer/"
+                href="https://github.com/Ronit21102/"
                 target="_blank"
               >
-                DevelopmentWithUmer
+                DevelopmentWithRonit
               </Link>
             </span>
           </div>
