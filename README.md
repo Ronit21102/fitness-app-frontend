@@ -61,6 +61,6 @@ We welcome contributions to improve my skills and the Gym Center Website. Feel f
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
 
 ## 🌐 Connect with Me
-- **GitHub:** [DevelopmentWithUmer](https://github.com/developmentwithumer/)
+- **GitHub:** [DevlopmentWithRonit]([https://github.com/developmentwithumer/](https://gym-center33.netlify.app/))
 
 Thank you for checking out the Gym Center Website! We hope it helps you.
